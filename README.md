@@ -1,4 +1,4 @@
-Capture the Flag Competition AI Agents
+# Capture the Flag Competition AI Agents
 
 These agents were written based on code from the UC Berkeley artificial intelligence course. All code was written in collaboration between Karen Liu, Class of 2023, and Tina Zhang, Class of 2024, and are intended to be in a 1v1 competition with other teams' agents, where the goal is to collect as many pellets as possible while avoiding the other team's ghosts.
 
